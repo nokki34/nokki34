@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nokki
-- 👀 I’m interested in web, web3
+- Hi, I’m @nokki
 
 <!---
 akhegai/akhegai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
